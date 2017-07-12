@@ -1,5 +1,5 @@
-# learning-journal
-My learning journal for Code 201 in July 2017
+# about-me
+About me project for Code 201 in July 2017
 "# LJ Code 201 - Day 2"
 
 Well, software development is a challenge. It's even more mind altering
