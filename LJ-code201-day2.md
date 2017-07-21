@@ -36,4 +36,12 @@ I found the pairing exercise very helpful, more eyes on a code definitely help t
 Week two day one was an extreme challenge for me and I failed. Damn that sucks. Others that left at 7pm were in the same boat so at least I know its not just me. But this class is getting tougher. The things from last week are making sense and now we are onto something a bit different.
 
 - I did not follow the 15 min rule for when getting stuck. So I floundered.
-- Make sure to ask for help earlier today if I am stumped. 
+- Make sure to ask for help earlier today if I am stumped.
+
+
+"# LJ Code 201 - 9"
+
+I had a problem with terminal and was to scared switch to my learning journal directory for fear of messing anything up. I am so not confident yet. 
+Week two ended with me being behind however I have definitely learned new things.
+- Asking for help more often is a good thing.
+- This weekend I need to catch up somehow. Hope I can complete my work this weekend. Or I may need to find a weekend tutor. hahhahaah.
