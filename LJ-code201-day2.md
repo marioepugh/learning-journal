@@ -41,7 +41,14 @@ Week two day one was an extreme challenge for me and I failed. Damn that sucks. 
 
 "# LJ Code 201 - 9"
 
-I had a problem with terminal and was to scared switch to my learning journal directory for fear of messing anything up. I am so not confident yet. 
+I had a problem with terminal and was to scared switch to my learning journal directory for fear of messing anything up. I am so not confident yet.
 Week two ended with me being behind however I have definitely learned new things.
 - Asking for help more often is a good thing.
 - This weekend I need to catch up somehow. Hope I can complete my work this weekend. Or I may need to find a weekend tutor. hahhahaah.
+
+"# LJ Code 201 - Day 10”
+
+Simple mistakes are killing me. All weekend I wondered why my photos on my wireframe would not work and today I have another set of eyes look at it and within seconds he sees the photos are missing semi colons. I had to have looked at that page for several hours.
+Also on my code I noticed that I misspelled a word and that messed up my pages connecting to each other.
+- I definitely know more than I did the first day of class and thats a good thing.
+- This GitHub problem I am having is troubling me. I believe I am doing the ACP correctly so I am not sure why I am getting this error each time. 
