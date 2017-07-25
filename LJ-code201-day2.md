@@ -51,4 +51,11 @@ Week two ended with me being behind however I have definitely learned new things
 Simple mistakes are killing me. All weekend I wondered why my photos on my wireframe would not work and today I have another set of eyes look at it and within seconds he sees the photos are missing semi colons. I had to have looked at that page for several hours.
 Also on my code I noticed that I misspelled a word and that messed up my pages connecting to each other.
 - I definitely know more than I did the first day of class and thats a good thing.
-- This GitHub problem I am having is troubling me. I believe I am doing the ACP correctly so I am not sure why I am getting this error each time. 
+- This GitHub problem I am having is troubling me. I believe I am doing the ACP correctly so I am not sure why I am getting this error each time.
+
+"# LJ Code 201 - Day 11”
+
+I got so much done last night on two overdue assignments and I feel great. I should have turned them in on time to receive full credit but it is hard to do when the assignment isn’t complete. I actually feel like I know more than two weeks ago. It is awesome.
+Worked on BusMall yesterday which was a challenge. Didn’t get it fully working yesterday but will today.
+-I am writing this journal on the bus, I am sure if this was an idea for people they would enjoy it judging by the long faces I am seeing this morning.
+-My goat for Tuesday is to get everything turned in and get my work current before end of day.
