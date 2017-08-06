@@ -1,0 +1,5 @@
+# learning-journal
+My learning journal for Code 201 August 6, 2017</br>
+"# LJ Code 201 - Day 20"
+This is my last learning journal of Code 201 which is funny because that is also how I started off my last learning journal. My groups presentation was excellent and I could not be more proud of the group I was placed in. I learned from all of them and they were all willing to share their expertise and knowledge with me.</br>
+I had so much fun and missed many hours of sleep taking this course. Stacked learning is no joke and I am taking it very seriously. I am going to become a software developer. Thank you Code Fellows. Thank you Sam for the instruction and youtube videos I have watched multiple times. I thank the TA's for answering my sometimes repeated questions. And I'm thankful for my GI Bill allowing me the opportunity to receive this  instruction. These are the thoughts that are running through my head on a Saturday night after 201 is over and I await the challenges I will face in 301.
